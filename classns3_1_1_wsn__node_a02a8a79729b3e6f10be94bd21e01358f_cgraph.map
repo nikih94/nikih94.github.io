@@ -1,0 +1,4 @@
+<map id="ns3::Wsn_node::SendSegment" name="ns3::Wsn_node::SendSegment">
+<area shape="rect" id="node1" title="Send a packet through a TCP connection to the remote address." alt="" coords="5,13,224,39"/>
+<area shape="rect" id="node2" href="$classns3_1_1_wsn__node.html#af8dc6dffc09f815bc2861013cef6d60b" title="The method checks if the onion was received by the next receiving node If the onion was not received ..." alt="" coords="272,5,469,47"/>
+</map>

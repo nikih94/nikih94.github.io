@@ -1,0 +1,5 @@
+<map id="ns3::SinkHelper::Install" name="ns3::SinkHelper::Install">
+<area shape="rect" id="node1" title=" " alt="" coords="513,5,685,32"/>
+<area shape="rect" id="node2" href="$class_wsn_constructor.html#a74ded090b295677bc613fc19c0af8ecc" title="Install applications on nodes and setup starting time of the handshake and the onion start time." alt="" coords="212,5,465,32"/>
+<area shape="rect" id="node3" href="$class_wsn_constructor.html#a35e2542073f5cfa5553d5365e8cec3e6" title="Construct the WSN, install applications on nodes and start the simulation." alt="" coords="5,5,164,32"/>
+</map>

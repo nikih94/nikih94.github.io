@@ -1,0 +1,15 @@
+<map id="ns3::Wsn_node::SendSegment" name="ns3::Wsn_node::SendSegment">
+<area shape="rect" id="node1" title="Send a packet through a TCP connection to the remote address." alt="" coords="1653,61,1872,88"/>
+<area shape="rect" id="node2" href="$classns3_1_1_sensor_node.html#a05c01e679e594059aec0e652eae2cfa4" title="Construct a new protobuf object containing the node publickey and send it to the sink node." alt="" coords="1156,5,1367,32"/>
+<area shape="rect" id="node4" href="$classns3_1_1_sensor_node.html#a2ba651e5a5565303c912149f3cfbcc8c" title="Executed when a new onion is received." alt="" coords="1415,54,1605,95"/>
+<area shape="rect" id="node6" href="$classns3_1_1_sink.html#a71e468d7136c559403186ea834bbb660" title="The method constructs the onion message as a protobuf object." alt="" coords="1431,120,1589,147"/>
+<area shape="rect" id="node3" href="$classns3_1_1_sensor_node.html#af104e475384f179e14699a7cf78dac43" title="1.Start the application run ns3::Wsn_node::Configure() 2.Generate new encryption keys 3...." alt="" coords="865,35,1108,61"/>
+<area shape="rect" id="node5" href="$classns3_1_1_sensor_node.html#aa733c01cc8db7d1dfe029c320c4f621c" title="Accept new TCP connections." alt="" coords="1170,60,1353,87"/>
+<area shape="rect" id="node7" href="$classns3_1_1_sink.html#afb970f60a50eeb59c9bbf77189716294" title="Method that constructs the onion head from route and routeLen parameters." alt="" coords="1173,120,1350,147"/>
+<area shape="rect" id="node8" href="$classns3_1_1_sink.html#a4a2b4bb96ca5a7f87779c9debe616c49" title="Schedule the creation of a new onion based on the path length specified in m_onionPathLengths If all ..." alt="" coords="910,120,1063,147"/>
+<area shape="rect" id="node9" href="$classns3_1_1_sink.html#adb3593f0c5e1037d8a6cb429ff114b2e" title="Each five seconds call the ns3::OnionValidator and check if at least one onion message is alive Other..." alt="" coords="436,69,603,96"/>
+<area shape="rect" id="node10" href="$classns3_1_1_sink.html#a59faa47e4235feac5d9be91842c82710" title="1.Start the application run ns3::Wsn_node::Configure() 2.Generate new encryption keys 3...." alt="" coords="5,120,199,147"/>
+<area shape="rect" id="node11" href="$classns3_1_1_sink.html#a1580afa832d0c29fab74b36a386c5960" title="Triggered when an onion message is received back at the sink node Data about the message is captured ..." alt="" coords="659,171,817,197"/>
+<area shape="rect" id="node12" href="$classns3_1_1_sink.html#afed3482312048d13efa38d1235bbf504" title="Recieve a new packet from socket Check if the packet is a handshake packet or a packet containing an ..." alt="" coords="428,171,611,197"/>
+<area shape="rect" id="node13" href="$classns3_1_1_sink.html#a828baaddc6bd9c862ca1eab675a2cc8b" title="Accept new TCP connections." alt="" coords="247,171,380,197"/>
+</map>

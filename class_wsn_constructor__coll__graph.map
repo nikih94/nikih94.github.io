@@ -1,0 +1,6 @@
+<map id="WsnConstructor" name="WsnConstructor">
+<area shape="rect" id="node1" title="The class that constructs the WSN, setup applications on nodes and starts the simulation." alt="" coords="5,215,131,241"/>
+<area shape="rect" id="node2" title=" " alt="" coords="15,96,79,123"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="103,96,190,123"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="77,5,216,47"/>
+</map>

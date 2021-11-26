@@ -1,0 +1,6 @@
+<map id="protomessage::ProtoPacket::Clear" name="protomessage::ProtoPacket::Clear">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,204,112"/>
+<area shape="rect" id="node2" href="$classprotomessage_1_1_proto_packet___onion_head.html#a03024fbf6ef8df762fbfb3cb31772069" title=" " alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$classprotomessage_1_1_proto_packet___onion_body.html#a710ffd64ebde6b95e523c5665f744054" title=" " alt="" coords="252,71,451,112"/>
+<area shape="rect" id="node4" href="$classprotomessage_1_1_proto_packet___handshake.html#a163966fc4240ae8b03e57e8aa6446689" title=" " alt="" coords="252,136,451,177"/>
+</map>

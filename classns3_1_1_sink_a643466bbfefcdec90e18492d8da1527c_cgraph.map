@@ -1,0 +1,4 @@
+<map id="ns3::Sink::RecvHandshake" name="ns3::Sink::RecvHandshake">
+<area shape="rect" id="node1" title="When receiving a new handshake with a node." alt="" coords="5,13,199,39"/>
+<area shape="rect" id="node2" href="$classprotomessage_1_1_proto_packet___handshake.html#ad7341592fd67dce6ac5d9930576544f0" title=" " alt="" coords="247,5,445,47"/>
+</map>

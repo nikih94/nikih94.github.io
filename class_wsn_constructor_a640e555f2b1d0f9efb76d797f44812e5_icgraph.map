@@ -1,0 +1,4 @@
+<map id="WsnConstructor::BuildGridTopology" name="WsnConstructor::BuildGridTopology">
+<area shape="rect" id="node1" title="Sensor nodes are deployed according to a grid structure; each sensor node is equidistant from the clo..." alt="" coords="212,5,405,47"/>
+<area shape="rect" id="node2" href="$class_wsn_constructor.html#a35e2542073f5cfa5553d5365e8cec3e6" title="Construct the WSN, install applications on nodes and start the simulation." alt="" coords="5,13,164,39"/>
+</map>

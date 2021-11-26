@@ -1,0 +1,7 @@
+<map id="WsnConstructor::InstallInternetStack" name="WsnConstructor::InstallInternetStack">
+<area shape="rect" id="node1" title="Installing the internet stack on nodes and setting up IP&#45;addresses." alt="" coords="5,74,229,115"/>
+<area shape="rect" id="node2" href="$class_wsn_constructor.html#a534501de4fa7e67f5e319cde1316c59f" title="Install AODV routing." alt="" coords="277,5,495,32"/>
+<area shape="rect" id="node3" href="$class_wsn_constructor.html#afb72fa16a07a0e7548eaa960e97a28ba" title="Install DSDV routing." alt="" coords="278,56,494,83"/>
+<area shape="rect" id="node4" href="$class_wsn_constructor.html#ada9468117741a10375da1d2b568d15d9" title="Install DSR routing." alt="" coords="283,107,489,133"/>
+<area shape="rect" id="node5" href="$class_wsn_constructor.html#aa93350da0b4258cebf50af000464b3ec" title="Install OLSR routing." alt="" coords="279,157,493,184"/>
+</map>

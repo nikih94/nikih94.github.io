@@ -1,0 +1,5 @@
+<map id="ns3::OnionManager" name="ns3::OnionManager">
+<area shape="rect" id="node1" title="Class that manages encryption keys and the encryption and decryption of layers of onion messagess The..." alt="" coords="5,155,153,181"/>
+<area shape="rect" id="node2" href="$classns3_1_1_onion_routing.html" title="Abstract class for creation and decryption of Onion messages." alt="" coords="9,80,150,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="47,5,111,32"/>
+</map>

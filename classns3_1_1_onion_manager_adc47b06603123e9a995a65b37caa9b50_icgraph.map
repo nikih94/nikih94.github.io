@@ -1,0 +1,5 @@
+<map id="ns3::OnionManager::GenerateNewKeyPair" name="ns3::OnionManager::GenerateNewKeyPair">
+<area shape="rect" id="node1" title="Generate a new public/private keypair using the libsodium library." alt="" coords="296,23,455,65"/>
+<area shape="rect" id="node2" href="$classns3_1_1_sink.html#a59faa47e4235feac5d9be91842c82710" title="1.Start the application run ns3::Wsn_node::Configure() 2.Generate new encryption keys 3...." alt="" coords="30,5,223,32"/>
+<area shape="rect" id="node3" href="$classns3_1_1_sensor_node.html#af104e475384f179e14699a7cf78dac43" title="1.Start the application run ns3::Wsn_node::Configure() 2.Generate new encryption keys 3...." alt="" coords="5,56,248,83"/>
+</map>

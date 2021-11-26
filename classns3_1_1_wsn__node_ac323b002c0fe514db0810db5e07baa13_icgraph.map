@@ -1,0 +1,4 @@
+<map id="ns3::Wsn_node::getNodeDelay" name="ns3::Wsn_node::getNodeDelay">
+<area shape="rect" id="node1" title="compute when the node should start the handshake process from the node ip address Used to not generat..." alt="" coords="296,5,517,32"/>
+<area shape="rect" id="node2" href="$classns3_1_1_sensor_node.html#af104e475384f179e14699a7cf78dac43" title="1.Start the application run ns3::Wsn_node::Configure() 2.Generate new encryption keys 3...." alt="" coords="5,5,248,32"/>
+</map>

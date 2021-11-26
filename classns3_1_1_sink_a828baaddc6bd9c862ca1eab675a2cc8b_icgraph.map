@@ -1,0 +1,4 @@
+<map id="ns3::Sink::Accept" name="ns3::Sink::Accept">
+<area shape="rect" id="node1" title="Accept new TCP connections." alt="" coords="247,5,380,32"/>
+<area shape="rect" id="node2" href="$classns3_1_1_sink.html#a59faa47e4235feac5d9be91842c82710" title="1.Start the application run ns3::Wsn_node::Configure() 2.Generate new encryption keys 3...." alt="" coords="5,5,199,32"/>
+</map>

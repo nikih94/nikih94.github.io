@@ -1,0 +1,8 @@
+<map id="ns3::SensorNode::Handshake" name="ns3::SensorNode::Handshake">
+<area shape="rect" id="node1" title="Construct a new protobuf object containing the node publickey and send it to the sink node." alt="" coords="5,107,216,134"/>
+<area shape="rect" id="node2" href="$classns3_1_1_onion_manager.html#ae39c847614f6c8944fd00cc57b81851d" title="accessor" alt="" coords="295,5,451,47"/>
+<area shape="rect" id="node3" href="$classprotomessage_1_1_proto_packet.html#a48f926637f06001157665ba34a8319b6" title=" " alt="" coords="274,71,473,112"/>
+<area shape="rect" id="node4" href="$classns3_1_1_wsn__node.html#a02a8a79729b3e6f10be94bd21e01358f" title="Send a packet through a TCP connection to the remote address." alt="" coords="264,137,483,163"/>
+<area shape="rect" id="node6" href="$classprotomessage_1_1_proto_packet___handshake.html#a40ed2e78a7dc2189a95d855d02da7cbc" title=" " alt="" coords="274,188,473,229"/>
+<area shape="rect" id="node5" href="$classns3_1_1_wsn__node.html#af8dc6dffc09f815bc2861013cef6d60b" title="The method checks if the onion was received by the next receiving node If the onion was not received ..." alt="" coords="531,129,728,171"/>
+</map>

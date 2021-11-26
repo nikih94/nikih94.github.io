@@ -1,0 +1,5 @@
+<map id="WsnConstructor::DSRrouting" name="WsnConstructor::DSRrouting">
+<area shape="rect" id="node1" title="Install DSR routing." alt="" coords="484,13,691,39"/>
+<area shape="rect" id="node2" href="$class_wsn_constructor.html#a81929c1a54337b6c02011d48714d89b7" title="Installing the internet stack on nodes and setting up IP&#45;addresses." alt="" coords="212,5,436,47"/>
+<area shape="rect" id="node3" href="$class_wsn_constructor.html#a35e2542073f5cfa5553d5365e8cec3e6" title="Construct the WSN, install applications on nodes and start the simulation." alt="" coords="5,13,164,39"/>
+</map>

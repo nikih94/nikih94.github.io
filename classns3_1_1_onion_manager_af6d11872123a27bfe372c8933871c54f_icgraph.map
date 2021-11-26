@@ -1,0 +1,7 @@
+<map id="ns3::OnionManager::GetSK" name="ns3::OnionManager::GetSK">
+<area shape="rect" id="node1" title="accessor" alt="" coords="1003,5,1159,47"/>
+<area shape="rect" id="node2" href="$classns3_1_1_sensor_node.html#a7af9c6eb1656e6c7beac49a4b264f5ef" title="Decrypt the outer layer of the onion head, obtain the information of the next IP address,..." alt="" coords="765,5,955,47"/>
+<area shape="rect" id="node3" href="$classns3_1_1_sensor_node.html#a2ba651e5a5565303c912149f3cfbcc8c" title="Executed when a new onion is received." alt="" coords="527,5,717,47"/>
+<area shape="rect" id="node4" href="$classns3_1_1_sensor_node.html#aa733c01cc8db7d1dfe029c320c4f621c" title="Accept new TCP connections." alt="" coords="296,13,479,39"/>
+<area shape="rect" id="node5" href="$classns3_1_1_sensor_node.html#af104e475384f179e14699a7cf78dac43" title="1.Start the application run ns3::Wsn_node::Configure() 2.Generate new encryption keys 3...." alt="" coords="5,13,248,39"/>
+</map>

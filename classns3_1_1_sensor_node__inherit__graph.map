@@ -1,0 +1,5 @@
+<map id="ns3::SensorNode" name="ns3::SensorNode">
+<area shape="rect" id="node1" title="The application of the sensor node." alt="" coords="5,155,136,181"/>
+<area shape="rect" id="node2" href="$classns3_1_1_wsn__node.html" title="The wsn node base class that manages the sending and receiving of packets and basic configuration of ..." alt="" coords="11,80,131,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="23,5,118,32"/>
+</map>

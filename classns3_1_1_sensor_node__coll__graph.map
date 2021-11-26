@@ -1,0 +1,15 @@
+<map id="ns3::SensorNode" name="ns3::SensorNode">
+<area shape="rect" id="node1" title="The application of the sensor node." alt="" coords="9,760,139,787"/>
+<area shape="rect" id="node2" href="$classns3_1_1_wsn__node.html" title="The wsn node base class that manages the sending and receiving of packets and basic configuration of ..." alt="" coords="14,684,134,711"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,595,100,621"/>
+<area shape="rect" id="node4" href="$classns3_1_1_onion_manager.html" title="Class that manages encryption keys and the encryption and decryption of layers of onion messagess The..." alt="" coords="124,595,272,621"/>
+<area shape="rect" id="node5" href="$classns3_1_1_onion_routing.html" title="Abstract class for creation and decryption of Onion messages." alt="" coords="127,519,269,545"/>
+<area shape="rect" id="node6" title=" " alt="" coords="145,429,209,456"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="233,429,366,456"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="212,339,387,380"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="225,248,374,289"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="146,157,287,199"/>
+<area shape="rect" id="node11" title="STL class." alt="" coords="214,81,385,108"/>
+<area shape="rect" id="node13" title="STL class." alt="" coords="312,157,457,199"/>
+<area shape="rect" id="node12" title="STL class." alt="" coords="246,5,353,32"/>
+</map>

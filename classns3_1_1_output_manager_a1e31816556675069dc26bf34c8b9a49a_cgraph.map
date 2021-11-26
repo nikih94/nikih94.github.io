@@ -1,0 +1,4 @@
+<map id="ns3::OutputManager::PrintNodeDetails" name="ns3::OutputManager::PrintNodeDetails">
+<area shape="rect" id="node1" title="print node details on the csv file, print only nodes reachable by the sink node" alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node2" href="$classns3_1_1_output_manager.html#a209431d3198a3175ec935a24cc06b536" title="print the given argument on the csv file" alt="" coords="208,5,363,47"/>
+</map>

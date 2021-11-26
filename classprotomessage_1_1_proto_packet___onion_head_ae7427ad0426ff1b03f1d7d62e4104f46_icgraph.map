@@ -1,0 +1,15 @@
+<map id="protomessage::ProtoPacket_OnionHead::InternalSwap" name="protomessage::ProtoPacket_OnionHead::InternalSwap">
+<area shape="rect" id="node1" title=" " alt="" coords="281,365,480,407"/>
+<area shape="rect" id="node2" href="$classprotomessage_1_1_proto_packet___onion_head.html#a3d049062ea84ad3640302aad457778e8" title=" " alt="" coords="20,5,219,47"/>
+<area shape="rect" id="node3" href="$classprotomessage_1_1_proto_packet___onion_body.html#aee66f56d787e10a7b9ec5b9886f48b67" title=" " alt="" coords="20,71,219,112"/>
+<area shape="rect" id="node4" href="$classprotomessage_1_1_proto_packet___handshake.html#ac2c83d4e4561d7b85f4227d2323a0abb" title=" " alt="" coords="20,136,219,177"/>
+<area shape="rect" id="node5" href="$classprotomessage_1_1_proto_packet.html#a2df333ff5e51e1fe0ad4000bcaa515ff" title=" " alt="" coords="20,201,219,243"/>
+<area shape="rect" id="node6" href="$classprotomessage_1_1_proto_packet___onion_head.html#ab5d9f2e8c4589b093104120153929011" title=" " alt="" coords="20,267,219,308"/>
+<area shape="rect" id="node7" href="$classprotomessage_1_1_proto_packet___onion_body.html#afd9b56d9ef5fde7c261b077652e38802" title=" " alt="" coords="20,332,219,373"/>
+<area shape="rect" id="node8" href="$classprotomessage_1_1_proto_packet___handshake.html#af4e88733feac2c8eb8df16591d9e8bce" title=" " alt="" coords="20,397,219,439"/>
+<area shape="rect" id="node9" href="$classprotomessage_1_1_proto_packet.html#a04cd2692f5c81b7196d66da8a625a28e" title=" " alt="" coords="20,463,219,504"/>
+<area shape="rect" id="node10" href="$classprotomessage_1_1_proto_packet___onion_head.html#ad006d400b3f9b94bd600922118f1d4d0" title=" " alt="" coords="5,528,233,569"/>
+<area shape="rect" id="node11" href="$classprotomessage_1_1_proto_packet___onion_body.html#a1be919156c56ab4954c48de3c1e3c035" title=" " alt="" coords="6,593,233,635"/>
+<area shape="rect" id="node12" href="$classprotomessage_1_1_proto_packet___handshake.html#a14637b982a2ba07a0b4d1ea7ee9854c0" title=" " alt="" coords="5,659,233,700"/>
+<area shape="rect" id="node13" href="$classprotomessage_1_1_proto_packet.html#a815e869ed2986bbbefdc608b974ab816" title=" " alt="" coords="20,724,219,765"/>
+</map>

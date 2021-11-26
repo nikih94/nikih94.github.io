@@ -1,0 +1,5 @@
+<map id="ns3::Wsn_node::RecvSegment" name="ns3::Wsn_node::RecvSegment">
+<area shape="rect" id="node1" title="method for receiving a segment calls ns3::Wsn_node::RecvSeg()" alt="" coords="5,5,224,32"/>
+<area shape="rect" id="node2" href="$classns3_1_1_wsn__node.html#a5d9c47229fd6a915a6eb26b740bdb387" title="method for receiving packets able to merge segment fragments if a packet was split into multiple segm..." alt="" coords="272,5,456,32"/>
+<area shape="rect" id="node3" href="$classns3_1_1_segment_num.html#a736403fa2fffeb464c1a1e18ff484b37" title=" " alt="" coords="504,5,732,32"/>
+</map>

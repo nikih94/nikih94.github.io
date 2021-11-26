@@ -1,0 +1,6 @@
+<map id="ns3::SensorNodeHelper::InstallPriv" name="ns3::SensorNodeHelper::InstallPriv">
+<area shape="rect" id="node1" title=" " alt="" coords="736,5,911,47"/>
+<area shape="rect" id="node2" href="$classns3_1_1_sensor_node_helper.html#a05551ca6981899ea0e62ed18cf4609c9" title=" " alt="" coords="513,5,688,47"/>
+<area shape="rect" id="node3" href="$class_wsn_constructor.html#a74ded090b295677bc613fc19c0af8ecc" title="Install applications on nodes and setup starting time of the handshake and the onion start time." alt="" coords="212,13,465,39"/>
+<area shape="rect" id="node4" href="$class_wsn_constructor.html#a35e2542073f5cfa5553d5365e8cec3e6" title="Construct the WSN, install applications on nodes and start the simulation." alt="" coords="5,13,164,39"/>
+</map>

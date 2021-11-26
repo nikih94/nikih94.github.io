@@ -1,0 +1,4 @@
+<map id="WsnConstructor::CreateDevices" name="WsnConstructor::CreateDevices">
+<area shape="rect" id="node1" title="Create Network devices and setup the wireless communication based on the IEEE 802...." alt="" coords="212,5,440,32"/>
+<area shape="rect" id="node2" href="$class_wsn_constructor.html#a35e2542073f5cfa5553d5365e8cec3e6" title="Construct the WSN, install applications on nodes and start the simulation." alt="" coords="5,5,164,32"/>
+</map>

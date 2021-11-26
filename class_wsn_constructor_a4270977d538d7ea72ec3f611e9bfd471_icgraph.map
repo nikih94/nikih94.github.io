@@ -1,0 +1,4 @@
+<map id="WsnConstructor::ProcessPathString" name="WsnConstructor::ProcessPathString">
+<area shape="rect" id="node1" title="Split the string m_pathsLengths by the delimiter (,) and save each value into m_onionPathsLengths and..." alt="" coords="212,5,423,47"/>
+<area shape="rect" id="node2" href="$class_wsn_constructor.html#a35e2542073f5cfa5553d5365e8cec3e6" title="Construct the WSN, install applications on nodes and start the simulation." alt="" coords="5,13,164,39"/>
+</map>
