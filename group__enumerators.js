@@ -6,6 +6,10 @@ var group__enumerators =
       [ "FixedSize", "namespacens3.html#ga9bb9b9a40e4f68c0d6c38ca01b99b864a6a5b1440aaff7ce92231fabd909b3d31", null ],
       [ "AggregateAndFixed", "namespacens3.html#ga9bb9b9a40e4f68c0d6c38ca01b99b864a0f38cee495e366fdb3cdd569c1976786", null ]
     ] ],
+    [ "CommunicationStatistics", "group__enumerators.html#gabb5be473c674d2eeaa8a449c8ae90566", [
+      [ "N", "namespacens3.html#gabb5be473c674d2eeaa8a449c8ae90566aa7407a217bad3f9c2cf7f58f0890073f", null ],
+      [ "Y", "namespacens3.html#gabb5be473c674d2eeaa8a449c8ae90566a30a55d8f56e8f7ecc84a76047b8a0c41", null ]
+    ] ],
     [ "IEEE_80211n", "group__enumerators.html#ga47a1e931488eca9ca25113e75dd54b1c", [
       [ "F_24GHz", "namespacens3.html#ga47a1e931488eca9ca25113e75dd54b1ca1d7a8f1a1a02c9d9e81c7404fb5c9e7d", null ],
       [ "F_5GHz", "namespacens3.html#ga47a1e931488eca9ca25113e75dd54b1ca4badddb7f33e493c8ec142f9fce7269e", null ]

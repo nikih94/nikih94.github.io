@@ -1,29 +1,30 @@
 <map id="ns3::Sink::PrepareOnion" name="ns3::Sink::PrepareOnion">
-<area shape="rect" id="node1" title="Method that constructs the onion head from route and routeLen parameters." alt="" coords="5,347,183,374"/>
+<area shape="rect" id="node1" title="Method that constructs the onion head from route and routeLen parameters." alt="" coords="5,345,183,371"/>
 <area shape="rect" id="node2" href="$classns3_1_1_onion_routing.html#a0da1e54f52d99df702dd240fce651981" title=" " alt="" coords="235,71,385,112"/>
 <area shape="rect" id="node6" href="$classns3_1_1_onion_routing.html#ab3882cb5b24d0746cfbca7db0a0f2307" title=" " alt="" coords="795,136,945,177"/>
-<area shape="rect" id="node7" href="$classns3_1_1_onion_manager.html#a45587cac497ea0ba2c5d18d33c17bd27" title="Convert an Ipv4 address given as an unsigned integer value to buffer array of 4Bytes." alt="" coords="232,340,388,381"/>
-<area shape="rect" id="node8" href="$classns3_1_1_sink.html#a71e468d7136c559403186ea834bbb660" title="The method constructs the onion message as a protobuf object." alt="" coords="231,549,389,575"/>
-<area shape="rect" id="node27" href="$classns3_1_1_onion_manager.html#ae6eca00c2ab2e25c208bbcc2b303433f" title="Convert a string to an array of unsigned chars." alt="" coords="232,600,388,641"/>
+<area shape="rect" id="node7" href="$classns3_1_1_onion_manager.html#a45587cac497ea0ba2c5d18d33c17bd27" title="Convert an Ipv4 address given as an unsigned integer value to buffer array of 4Bytes." alt="" coords="232,337,388,379"/>
+<area shape="rect" id="node8" href="$classns3_1_1_sink.html#a71e468d7136c559403186ea834bbb660" title="The method constructs the onion message as a protobuf object." alt="" coords="231,570,389,597"/>
+<area shape="rect" id="node28" href="$classns3_1_1_onion_manager.html#ae6eca00c2ab2e25c208bbcc2b303433f" title="Convert a string to an array of unsigned chars." alt="" coords="232,621,388,663"/>
 <area shape="rect" id="node3" href="$classns3_1_1_onion_routing.html#aa0e89ab4789722e46a24403ef4fdca78" title=" " alt="" coords="795,5,945,47"/>
 <area shape="rect" id="node4" href="$classns3_1_1_onion_routing.html#af2c470892e46cdd55688d0187fd2318b" title=" " alt="" coords="485,71,634,112"/>
 <area shape="rect" id="node5" href="$classns3_1_1_onion_routing.html#a4dc0c7fbda4dccf41b5c3e5a5dda1a36" title=" " alt="" coords="795,71,945,112"/>
-<area shape="rect" id="node9" href="$classprotomessage_1_1_proto_packet___onion_head.html#a345a7f76017cf57eaf7e02886b049378" title=" " alt="" coords="460,284,659,325"/>
-<area shape="rect" id="node13" href="$classprotomessage_1_1_proto_packet___onion_body.html#a2856fc8d0b443002953e8a8e2c62ae97" title=" " alt="" coords="460,352,659,393"/>
-<area shape="rect" id="node16" href="$classprotomessage_1_1_proto_packet.html#a458919e3afa59bad3f09ba44fb2585b2" title=" " alt="" coords="460,417,659,459"/>
-<area shape="rect" id="node17" href="$classprotomessage_1_1_proto_packet.html#a71f5021a442813efa9b776fdc887c134" title=" " alt="" coords="460,483,659,524"/>
-<area shape="rect" id="node18" href="$classns3_1_1_wsn__node.html#a02a8a79729b3e6f10be94bd21e01358f" title="Send a packet through a TCP connection to the remote address." alt="" coords="450,549,669,575"/>
-<area shape="rect" id="node20" href="$classprotomessage_1_1_proto_packet___onion_body.html#a07ba389aeacb242a7eb22bafbd000433" title=" " alt="" coords="437,600,681,641"/>
-<area shape="rect" id="node21" href="$classprotomessage_1_1_proto_packet___onion_head.html#a4d2ad7d5770fa5c0178132b1ff56fb27" title=" " alt="" coords="440,665,679,707"/>
-<area shape="rect" id="node22" href="$classprotomessage_1_1_proto_packet___onion_head.html#a74ec6824cca0f510e4c18f1640e9afc4" title=" " alt="" coords="460,731,659,772"/>
-<area shape="rect" id="node24" href="$classprotomessage_1_1_proto_packet___onion_head.html#a6cf2ea1bb2563621166b954fa4ffe05c" title=" " alt="" coords="460,796,659,837"/>
-<area shape="rect" id="node25" href="$classprotomessage_1_1_proto_packet___onion_body.html#a87b7563f40411fea611b108be67a5398" title=" " alt="" coords="460,861,659,903"/>
-<area shape="rect" id="node26" href="$classns3_1_1_onion_manager.html#a2c0f3e75030b80a223f83efe785fc21b" title="Convert an array of unsigned chars to a std::string." alt="" coords="481,927,637,968"/>
+<area shape="rect" id="node9" href="$classprotomessage_1_1_proto_packet___onion_head.html#a345a7f76017cf57eaf7e02886b049378" title=" " alt="" coords="460,283,659,324"/>
+<area shape="rect" id="node13" href="$classprotomessage_1_1_proto_packet___onion_body.html#a2856fc8d0b443002953e8a8e2c62ae97" title=" " alt="" coords="460,348,659,389"/>
+<area shape="rect" id="node16" href="$classprotomessage_1_1_proto_packet.html#a458919e3afa59bad3f09ba44fb2585b2" title=" " alt="" coords="460,413,659,455"/>
+<area shape="rect" id="node17" href="$classprotomessage_1_1_proto_packet.html#a71f5021a442813efa9b776fdc887c134" title=" " alt="" coords="460,479,659,520"/>
+<area shape="rect" id="node18" href="$classns3_1_1_wsn__node.html#a3542bef0929d36d6ea4a4c473e819a35" title="Call to signal the transmission of a Packet at the application layer." alt="" coords="468,545,651,571"/>
+<area shape="rect" id="node19" href="$classns3_1_1_wsn__node.html#a02a8a79729b3e6f10be94bd21e01358f" title="Send a packet through a TCP connection to the remote address." alt="" coords="450,595,669,622"/>
+<area shape="rect" id="node21" href="$classprotomessage_1_1_proto_packet___onion_body.html#a07ba389aeacb242a7eb22bafbd000433" title=" " alt="" coords="437,647,681,688"/>
+<area shape="rect" id="node22" href="$classprotomessage_1_1_proto_packet___onion_head.html#a4d2ad7d5770fa5c0178132b1ff56fb27" title=" " alt="" coords="440,712,679,753"/>
+<area shape="rect" id="node23" href="$classprotomessage_1_1_proto_packet___onion_head.html#a74ec6824cca0f510e4c18f1640e9afc4" title=" " alt="" coords="460,777,659,819"/>
+<area shape="rect" id="node25" href="$classprotomessage_1_1_proto_packet___onion_head.html#a6cf2ea1bb2563621166b954fa4ffe05c" title=" " alt="" coords="460,843,659,884"/>
+<area shape="rect" id="node26" href="$classprotomessage_1_1_proto_packet___onion_body.html#a87b7563f40411fea611b108be67a5398" title=" " alt="" coords="460,908,659,949"/>
+<area shape="rect" id="node27" href="$classns3_1_1_onion_manager.html#a2c0f3e75030b80a223f83efe785fc21b" title="Convert an array of unsigned chars to a std::string." alt="" coords="481,973,637,1015"/>
 <area shape="rect" id="node10" href="$classprotomessage_1_1_proto_packet___onion_head.html#adda5d4aa78dd11bb27769c39b357634b" title=" " alt="" coords="765,202,975,258"/>
 <area shape="rect" id="node11" href="$classprotomessage_1_1_proto_packet___onion_head.html#a0575c701e50fe9c30f6b363630883c9e" title=" " alt="" coords="759,283,981,324"/>
 <area shape="rect" id="node12" href="$classprotomessage_1_1_proto_packet___onion_head.html#a953253eaf1ce724b9b216064c6bd8f97" title=" " alt="" coords="757,348,983,389"/>
 <area shape="rect" id="node14" href="$classprotomessage_1_1_proto_packet___onion_body.html#a3d832a8dff8b14b4620791fff82bf5e3" title=" " alt="" coords="729,413,1011,455"/>
 <area shape="rect" id="node15" href="$classprotomessage_1_1_proto_packet___onion_body.html#aefa8e129c6a9e94fd26211b7f2fc08c4" title=" " alt="" coords="759,479,981,520"/>
-<area shape="rect" id="node19" href="$classns3_1_1_wsn__node.html#af8dc6dffc09f815bc2861013cef6d60b" title="The method checks if the onion was received by the next receiving node If the onion was not received ..." alt="" coords="771,544,969,585"/>
-<area shape="rect" id="node23" href="$classprotomessage_1_1_proto_packet___onion_head.html#acb312d32337ab31cbd2d14de997ca5ad" title=" " alt="" coords="771,723,969,779"/>
+<area shape="rect" id="node20" href="$classns3_1_1_wsn__node.html#af8dc6dffc09f815bc2861013cef6d60b" title="The method checks if the onion was received by the next receiving node If the onion was not received ..." alt="" coords="771,588,969,629"/>
+<area shape="rect" id="node24" href="$classprotomessage_1_1_proto_packet___onion_head.html#acb312d32337ab31cbd2d14de997ca5ad" title=" " alt="" coords="771,770,969,826"/>
 </map>

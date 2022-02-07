@@ -1,0 +1,4 @@
+<map id="WsnConstructor::CaptureStatistics" name="WsnConstructor::CaptureStatistics">
+<area shape="rect" id="node1" title="Instantiate objects for collecting data with the statistical framework." alt="" coords="212,5,456,32"/>
+<area shape="rect" id="node2" href="$class_wsn_constructor.html#a35e2542073f5cfa5553d5365e8cec3e6" title="Construct the WSN, install applications on nodes and start the simulation." alt="" coords="5,5,164,32"/>
+</map>
